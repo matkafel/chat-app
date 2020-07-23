@@ -1,0 +1,33 @@
+.message {
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 10px;
+    width: fit-content;
+    background: linear-gradient(to right, #ff9068, #fd746c);
+    box-shadow: 10px 10px 29px -15px rgba(0, 0, 0, 0.75);
+}
+
+.message_user {
+    margin-left: auto;
+    text-align: left !important;
+    color: white;
+    background: rgb(14, 183, 240);
+}
+
+.author {
+    margin-left: 10px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 10px;
+    color: gray;
+}
+
+span {
+    color: whitesmoke;
+}
+
+p {
+    font-weight: 500;
+    color: white;
+
+}
